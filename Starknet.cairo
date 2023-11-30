@@ -10,6 +10,9 @@ mod HelloStarknet {
     fn Hello(from: ContractAddress, value: felt252) {}
 // drop enthuaists like u
 // the life is good
+/*
+* STRK to the moon
+*/
 
     #[external]
     fn Say_Hello(message: felt252) {
