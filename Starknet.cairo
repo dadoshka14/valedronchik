@@ -13,7 +13,7 @@ mod HelloStarknet {
 /*
 * STRK to the moon
 */
-
+// hope to be eligible
     #[external]
     fn Say_Hello(message: felt252) {
         let caller = get_caller_address();
