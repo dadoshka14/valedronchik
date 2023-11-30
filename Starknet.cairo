@@ -6,7 +6,7 @@ mod HelloStarknet {
 * Drophunt
 */
 // u r making a very good project
-    #[event]
+    #[event] // i am trying my best
     fn Hello(from: ContractAddress, value: felt252) {}
 
 
