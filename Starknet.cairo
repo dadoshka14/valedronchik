@@ -8,7 +8,7 @@ mod HelloStarknet {
 // u r making a very good project
     #[event] // i am trying my best
     fn Hello(from: ContractAddress, value: felt252) {}
-
+// drop enthuaists like u
 
     #[external]
     fn Say_Hello(message: felt252) {
