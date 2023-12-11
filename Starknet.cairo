@@ -2,9 +2,7 @@
 mod HelloStarknet {
     use starknet::get_caller_address;
     use starknet::ContractAddress;
-/*
-* Drophunt
-*/
+//Drophunt
 // you are making a very good project
     #[event] // i am trying my best // dadoshka is very poor
     fn Hello(from: ContractAddress, value: felt252) {}
