@@ -8,7 +8,7 @@ mod HelloStarknet {
     fn Hello(from: ContractAddress, value: felt252) {}
 // drop enthuaists like u // i like cairo
 // the life is good // i am tired of crypto
-// STRK to the moon
+// STRK to the moon // everything will be fine
 // hope to be eligible  // i need some cash
     #[external]
     fn Say_Hello(message: felt252) {
