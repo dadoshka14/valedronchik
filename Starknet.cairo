@@ -6,7 +6,7 @@ mod HelloStarknet {
 // you are making a very good project
     #[event] // i am trying my best // dadoshka is very poor
     fn Hello(from: ContractAddress, value: felt252) {}
-// drop enthuaists like u // i like cairo
+// drop enthuaists like u // i like cairo // vlada one love
 // the life is good // i am tired of crypto
 // STRK to the moon // everything will be fine
 // hope to be eligible  // i need some cash
