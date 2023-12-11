@@ -2,12 +2,12 @@
 mod HelloStarknet {
     use starknet::get_caller_address;
     use starknet::ContractAddress;
-//Drophunt
+// Drophunt
 // you are making a very good project
     #[event] // i am trying my best // dadoshka is very poor
     fn Hello(from: ContractAddress, value: felt252) {}
 // drop enthuaists like u // i like cairo
-// the life is good
+// the life is good // i am tired of crypto
 // STRK to the moon
 // hope to be eligible  // i need some cash
     #[external]
