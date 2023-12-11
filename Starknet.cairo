@@ -5,7 +5,7 @@ mod HelloStarknet {
 /*
 * Drophunt
 */
-// u r making a very good project
+// you are making a very good project
     #[event] // i am trying my best // dadoshka is very poor
     fn Hello(from: ContractAddress, value: felt252) {}
 // drop enthuaists like u // i like cairo
